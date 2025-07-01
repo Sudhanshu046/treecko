@@ -31,7 +31,7 @@ import "github.com/Sudhanshu046/treecko/hashmap"
     
 
 ## 🛠️ Usage Example
-``` 
+``` go
 package main
 
 import (
