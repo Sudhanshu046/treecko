@@ -1,6 +1,6 @@
-# 🧠 Treecko - A Go based Hashmap
+# Treecko - A Go based Hashmap
 
-A **generic** and **resizable** hashmap implementation in Go, using Go 1.18+ generics. Built for performance, usability, and educational clarity.
+A **generic** and **resizable** hashmap implementation in Go, using Go 1.18+ generics. Built for performance, usability.
 
 > 📦 Package Path: `github.com/Sudhanshu046/treecko/hashmap`
 
@@ -14,13 +14,13 @@ To install the package, run:
 go get github.com/Sudhanshu046/treecko/hashmap
 ```
 
-Getting Started
+## 🚀 Getting Started
 ------------------
 ```
 import "github.com/Sudhanshu046/treecko/hashmap"   
 ```
 
-Features
+## ✨ Features
 ----------
 
 *   🧠 Generic support using Go 1.18+ type parameters
@@ -32,7 +32,7 @@ Features
 *   🔄 Utility methods for cloning, clearing, checking keys/values, etc.
     
 
-Usage Example
+## 🛠️ Usage Example
 -----------------
 ``` 
 package main
@@ -69,7 +69,7 @@ func main() {
 }
 ```
 
-🧪 Requirements
+## 🧪 Requirements
 ---------------
 
 *   Go 1.18 or later (for generics support)
